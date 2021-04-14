@@ -8,10 +8,6 @@
     "start": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/RaJA8083/nodeJsTask.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
